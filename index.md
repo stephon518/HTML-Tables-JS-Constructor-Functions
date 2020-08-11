@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Object-Oriented Program
 
-You can use the [editor on GitHub](https://github.com/stephon518/HTML-Tables-JS-Constructor-Functions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tables
 
-### Markdown
+The <table> element is used to add tables to a web page.
+X A table is drawn out row by row. Each row is created with the <tr> element.
+X Inside each row there are a number of cells represented by the <td> element (or <th> if it is a header).
+X You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
+X For long tables you can split the table into a <thead>, <tbody>, and <tfoot>.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Functions, Methods, and Objects
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephon518/HTML-Tables-JS-Constructor-Functions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Functions allow you to group a set of related statements together that represent a single task.
+Functions can take parameters (informatiorJ required to do their job) and may return a value.
+An object is a series of variables and functions that represent something from the world around you.
+In an object, variables are known as properties of the object; functions are known as methods of the object.
+Web browsers implement objects that represent both the browser window and the document loaded into the browser window.
+JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.
+Arrays and objects can be used to create complex data sets (and both can contain the other).
